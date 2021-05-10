@@ -1,0 +1,2 @@
+--- # my first yaml playbook
+- hosts: demo
